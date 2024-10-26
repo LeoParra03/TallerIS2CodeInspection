@@ -1,0 +1,10 @@
+main/java/labcodeinspection/Email.java:11:	CommentRequired:	CommentRequired: Field comments are required
+main/java/labcodeinspection/Email.java:12:	CommentRequired:	CommentRequired: Field comments are required
+main/java/labcodeinspection/Email.java:13:	CommentRequired:	CommentRequired: Field comments are required
+main/java/labcodeinspection/Email.java:14:	CommentRequired:	CommentRequired: Field comments are required
+main/java/labcodeinspection/Email.java:15:	CommentRequired:	CommentRequired: Field comments are required
+main/java/labcodeinspection/Email.java:15:	LongVariable:	LongVariable: Avoid excessively long variable names like DEFAULT_PASSWORD_LENGTH
+main/java/labcodeinspection/Email.java:16:	AvoidFieldNameMatchingTypeName:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+main/java/labcodeinspection/Email.java:16:	CommentRequired:	CommentRequired: Field comments are required
+main/java/labcodeinspection/Email.java:33:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+main/java/labcodeinspection/Email.java:34:	SystemPrintln:	SystemPrintln: Usage of System.out/err
